@@ -1,0 +1,9 @@
+.git
+.gitignore
+.env
+__pycache__
+*.pyc
+.venv
+.DS_Store
+*.log
+data/processed_data.csv
